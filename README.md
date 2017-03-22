@@ -7,7 +7,7 @@ ______
 This application was built by [Steve Olson](https://github.com/SteveOscar) and [Brenna Martenson](https://github.com/martensonbj) for the [Turing School of Software & Design](https://www.turing.io).
 
 ### Project Specifications
-This project was a two week project completed during the last module of a seven month back end development program. The goal of the project was to build a browser-based game using strictly JavaScript, HTML, and CSS.
+This was a two week project completed during the last module of a seven month back end development program. The goal of the project was to build a browser-based game using strictly JavaScript, HTML, and CSS.
 
 ### Project Setup
 To get started, clone down this repository.  
